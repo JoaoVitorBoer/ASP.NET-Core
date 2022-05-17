@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "iPZVY9yM3Ajc1Ps10CVIiH5ZEJxVelHlq7ntM7nDE8jxodBsH7byQSMzDGJz2w0Jp5AbPiKZCAC3jPQZUjJwcw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Joao_Vitor_Abitante\\Desktop\\ASP.NET-Core\\DemoWSAloMundo2\\DemoWSAloMundo2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Joao_Vitor_Abitante\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Joao_Vitor_Abitante\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Joao_Vitor_Abitante\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\Joao_Vitor_Abitante\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\Joao_Vitor_Abitante\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\Joao_Vitor_Abitante\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -3,7 +3,7 @@ using Microsoft.AspNetCore.Mvc;
 namespace DemoWSAloMundo2.Controllers;
 
 [ApiController]
-[Route("api/v1/[controller]")] //controller = nome do controlador -> alomundo
+[Route("/api/v1/[controller]")]
 public class AloMundoController : ControllerBase
 {
     private readonly ILogger<AloMundoController> _logger;
@@ -12,6 +12,7 @@ public class AloMundoController : ControllerBase
     {
         _logger = logger;
     }
+
     [HttpGet]
     public string Get()
     {
@@ -26,17 +27,17 @@ public class AloMundoController : ControllerBase
         return $"Alô, {nome}!";
     }
 
-    [HttpGet("query")] //GET.../api/v1/alomundo/query?nome=John
-    public string GetQuery([FromQuery]string nome)
+    [HttpGet("query")] //GET .../api/v1/alomundo/query?nome=John
+    public string GetQuery([FromQuery] string nome)
     {
-        _logger.LogInformation($"GET /api/v1/alomundo/query?{nome}");
+        _logger.LogInformation($"GET /api/v1/alomundo/query?nome={nome}");
         return $"Alô, {nome}!";
     }
 
     [HttpPost] //POST .../api/v1/alomundo
     public string Post([FromBody] string nome)
     {
-        _logger.LogInformation($"GET /api/v1/alomundo");
+        _logger.LogInformation("POST /api/v1/alomundo");
         return $"Alô, {nome}!";
     }
 }
