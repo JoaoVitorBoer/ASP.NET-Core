@@ -3,7 +3,8 @@ using Microsoft.AspNetCore.Mvc;
 namespace DemoWSAloMundo2.Controllers;
 
 [ApiController]
-[Route("/api/v1/[controller]")]
+[Route("/api/v1/[controller]")] //Indica o formato da URI
+
 public class AloMundoController : ControllerBase
 {
     private readonly ILogger<AloMundoController> _logger;
@@ -39,5 +40,15 @@ public class AloMundoController : ControllerBase
     {
         _logger.LogInformation("POST /api/v1/alomundo");
         return $"Alô, {nome}!";
+    }
+
+    [HttpPost("pessoa")] //POST .../api/v1/alomundo/pessoa
+    public string Post([FromBody] Pessoa pessoa)            // se faltar algum dado, tipo a idade, o valor default é 0(strings nao existem null) logo da erro
+    {
+        _logger.LogInformation("POST /api/v1/alomundo");
+        _logger.LogInformation($"Nome={pessoa.Nome}");
+        _logger.LogInformation($"Email={pessoa.Email}");
+        _logger.LogInformation($"Idade={pessoa.Idade}");
+        return $"Alô, {pessoa.Nome}!";
     }
 }

@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "wpfnuchhBPGMV4H/eVJGoXI/ub239y5rlACK+TAa+ISqbiU6l07XoeGLrytUrhClJbRznkvV2IBdeGmokYvPSA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Joao_Vitor_Abitante\\Desktop\\ASP.NET-Core\\DemoWSPizzaria\\DemoWSPizzaria.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Joao_Vitor_Abitante\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Joao_Vitor_Abitante\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Joao_Vitor_Abitante\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\Joao_Vitor_Abitante\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\Joao_Vitor_Abitante\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\Joao_Vitor_Abitante\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
