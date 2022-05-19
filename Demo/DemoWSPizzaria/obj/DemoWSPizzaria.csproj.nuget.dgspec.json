@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Joao_Vitor_Abitante\\Desktop\\ASP.NET-Core\\DemoWSPizzariaOld\\DemoWSPizzaria.csproj": {}
+    "C:\\Users\\Joao_Vitor_Abitante\\Desktop\\ASP.NET-Core\\Demo\\DemoWSPizzaria\\DemoWSPizzaria.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Joao_Vitor_Abitante\\Desktop\\ASP.NET-Core\\DemoWSPizzariaOld\\DemoWSPizzaria.csproj": {
+    "C:\\Users\\Joao_Vitor_Abitante\\Desktop\\ASP.NET-Core\\Demo\\DemoWSPizzaria\\DemoWSPizzaria.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Joao_Vitor_Abitante\\Desktop\\ASP.NET-Core\\DemoWSPizzariaOld\\DemoWSPizzaria.csproj",
+        "projectUniqueName": "C:\\Users\\Joao_Vitor_Abitante\\Desktop\\ASP.NET-Core\\Demo\\DemoWSPizzaria\\DemoWSPizzaria.csproj",
         "projectName": "DemoWSPizzaria",
-        "projectPath": "C:\\Users\\Joao_Vitor_Abitante\\Desktop\\ASP.NET-Core\\DemoWSPizzariaOld\\DemoWSPizzaria.csproj",
+        "projectPath": "C:\\Users\\Joao_Vitor_Abitante\\Desktop\\ASP.NET-Core\\Demo\\DemoWSPizzaria\\DemoWSPizzaria.csproj",
         "packagesPath": "C:\\Users\\Joao_Vitor_Abitante\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Joao_Vitor_Abitante\\Desktop\\ASP.NET-Core\\DemoWSPizzariaOld\\obj\\",
+        "outputPath": "C:\\Users\\Joao_Vitor_Abitante\\Desktop\\ASP.NET-Core\\Demo\\DemoWSPizzaria\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Joao_Vitor_Abitante\\AppData\\Roaming\\NuGet\\NuGet.Config",
