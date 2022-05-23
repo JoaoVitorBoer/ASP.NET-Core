@@ -1,8 +1,8 @@
 ﻿using System.Diagnostics;
 using Microsoft.AspNetCore.Mvc;
-using DemoMVC.Models;
+using DemoCepMVC.Models;
 
-namespace DemoMVC.Controllers;
+namespace DemoCepMVC.Controllers;
 
 public class HomeController : Controller
 {
@@ -13,17 +13,12 @@ public class HomeController : Controller
         _logger = logger;
     }
 
-    public string AloMundo(string name)  //.../Home/Alomundo?name=Julio
-    {
-        return $"Alo, {name}";
-    }
-
-    public IActionResult Index() //.../Home/Index
+    public IActionResult Index()
     {
         return View();
     }
 
-    public IActionResult Privacy()  //.../Home/Privacy
+    public IActionResult Privacy()
     {
         return View();
     }
