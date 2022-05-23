@@ -1,7 +1,10 @@
+using DemoMVCCep.Services;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
+builder.Services.AddSingleton<ICepService, CepMemoriaService>();
 
 var app = builder.Build();
 

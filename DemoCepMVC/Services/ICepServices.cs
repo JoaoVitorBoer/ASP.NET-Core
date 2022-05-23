@@ -1,6 +1,9 @@
-namespace DemoCepMVC.Services;
+using DemoMVCCep.Models;
+namespace DemoMVCCep.Services;
 
 public interface ICepService
 {
-    IEnumerable
+    IEnumerable<ConsultaCep> ConsultaTodos();
+    ConsultaCep? ConsultaPorCep(string cep);
+    void Cadastrar(ConsultaCep cep);
 }

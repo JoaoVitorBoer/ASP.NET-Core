@@ -1,4 +1,4 @@
-namespace DemoCepMVC.Models;
+namespace DemoMVCCep.Models;
 
 public class ErrorViewModel
 {
