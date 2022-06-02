@@ -8,45 +8,45 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = DemoCepMVC
 build_property.RootNamespace = DemoCepMVC
-build_property.ProjectDir = C:\Users\Joao_Vitor_Abitante\Desktop\ASP.NET-Core\DemoCepMVC\
+build_property.ProjectDir = c:\Users\Joao_Vitor_Abitante\Desktop\ASP.NET-Core\DemoCepMVC\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\Joao_Vitor_Abitante\Desktop\ASP.NET-Core\DemoCepMVC
+build_property.MSBuildProjectDirectory = c:\Users\Joao_Vitor_Abitante\Desktop\ASP.NET-Core\DemoCepMVC
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/Joao_Vitor_Abitante/Desktop/ASP.NET-Core/DemoCepMVC/Views/Home/Create.cshtml]
+[c:/Users/Joao_Vitor_Abitante/Desktop/ASP.NET-Core/DemoCepMVC/Views/Home/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Joao_Vitor_Abitante/Desktop/ASP.NET-Core/DemoCepMVC/Views/Home/Index.cshtml]
+[c:/Users/Joao_Vitor_Abitante/Desktop/ASP.NET-Core/DemoCepMVC/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Joao_Vitor_Abitante/Desktop/ASP.NET-Core/DemoCepMVC/Views/Home/Privacy.cshtml]
+[c:/Users/Joao_Vitor_Abitante/Desktop/ASP.NET-Core/DemoCepMVC/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Joao_Vitor_Abitante/Desktop/ASP.NET-Core/DemoCepMVC/Views/Home/Search.cshtml]
+[c:/Users/Joao_Vitor_Abitante/Desktop/ASP.NET-Core/DemoCepMVC/Views/Home/Search.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxTZWFyY2guY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Joao_Vitor_Abitante/Desktop/ASP.NET-Core/DemoCepMVC/Views/Shared/Error.cshtml]
+[c:/Users/Joao_Vitor_Abitante/Desktop/ASP.NET-Core/DemoCepMVC/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Joao_Vitor_Abitante/Desktop/ASP.NET-Core/DemoCepMVC/Views/Shared/_ValidationScriptsPartial.cshtml]
+[c:/Users/Joao_Vitor_Abitante/Desktop/ASP.NET-Core/DemoCepMVC/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Joao_Vitor_Abitante/Desktop/ASP.NET-Core/DemoCepMVC/Views/_ViewImports.cshtml]
+[c:/Users/Joao_Vitor_Abitante/Desktop/ASP.NET-Core/DemoCepMVC/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Joao_Vitor_Abitante/Desktop/ASP.NET-Core/DemoCepMVC/Views/_ViewStart.cshtml]
+[c:/Users/Joao_Vitor_Abitante/Desktop/ASP.NET-Core/DemoCepMVC/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Joao_Vitor_Abitante/Desktop/ASP.NET-Core/DemoCepMVC/Views/Shared/_Layout.cshtml]
+[c:/Users/Joao_Vitor_Abitante/Desktop/ASP.NET-Core/DemoCepMVC/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-3l1g8eyal1
