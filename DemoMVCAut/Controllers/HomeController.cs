@@ -1,6 +1,8 @@
 ﻿using System.Diagnostics;
 using Microsoft.AspNetCore.Mvc;
 using DemoMVCAut.Models;
+using Microsoft.AspNetCore.Authorization;
+
 namespace DemoMVCAut.Controllers;
 
 public class HomeController : Controller
@@ -16,6 +18,7 @@ public class HomeController : Controller
     {
         return View();
     }
+
     [Authorize]
     public IActionResult Privacy()
     {
